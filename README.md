@@ -33,7 +33,3 @@
 
 ### Связь
 - 📫 Я есть в Telegram: @Karina_eg
-
-- [Python](https://www.python.org/) - ![Python](https://img.shields.io/badge/Python-3.11-blue)
-- [Django](https://www.djangoproject.com/) - ![Django](https://img.shields.io/badge/Django-3.2-green)
-- [Django REST Framework](https://www.django-rest-framework.org/) - ![DRF](https://img.shields.io/badge/DRF-3.12-orange)
