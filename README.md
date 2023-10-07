@@ -42,4 +42,11 @@
 - [Yatube](https://github.com/Karina-Rin/yatube_project) - Социальная сеть блогеров.
 - [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop) - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания.
 
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Karina-Rin
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karina-Rin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 🔥 p.s. хочу стать разработчиком/DevOps-инженером 💻
