@@ -44,6 +44,6 @@ class WhoIAm():
 - [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop) - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания.
 
 ### Связь
-- 📫 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Karina_eg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Karina_eg)
 
 🔥 p.s. хочу стать разработчиком/DevOps-инженером 💻
