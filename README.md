@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 
-
+<div id="badges">
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram"/>
+  </a>
+</div>
 
 
 ## Привет, я Карина 👋
@@ -50,7 +54,6 @@ class WhoIAm():
 - [Yatube](https://github.com/Karina-Rin/yatube_project) - Социальная сеть блогеров.
 - [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop) - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания.
 
-### Связь
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Karina_eg)
+
 
 🔥 p.s. хочу стать разработчиком/DevOps-инженером 💻
