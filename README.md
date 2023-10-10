@@ -42,6 +42,7 @@
 ---
 
 ### Проекты
+- [LeYan](https://github.com/LeYan15/LeYan_backend) - Проектное участие в кросс-функциональном хакатоне по разработке ML-продукта и интерфейса предсказательной модели для ООО “Лента”.
 - [P2P Bot](https://github.com/Karina-Rin/p2p_review_bot) - Bot мессенджера Пачка, который предназначен для организации взаимопроверки кода студентами курса Java и Python.
 - [Foodgram](https://github.com/Karina-Rin/foodgram-project-react-5) - Сервис для публикации кулинарных рецептов с возможностью формирования списка продуктов для нужных рецептов.
 - [Homework_bot](https://github.com/Karina-Rin/homework_bot-1) - Телеграмм-бот для проверки статуса домашних работ. 
