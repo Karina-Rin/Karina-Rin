@@ -48,11 +48,11 @@
 - [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop) - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания.
 
 ---
-
+<div id="badges" align="center">
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karina-Rin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-Rin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
 🔥 p.s. хочу стать разработчиком/DevOps-инженером 💻
