@@ -20,6 +20,7 @@
 - 🌍 Открыта к изучению новых технологий
 - :books: MTUCI
 - :computer: Junior
+- :newspaper: study English
 
 ---
 
