@@ -53,8 +53,8 @@
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karina-Rin&theme=chartreuse_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karina-Rin&theme=chartreuse_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=chartreuse_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=chartreuse_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karina-Rin&theme=prussian)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karina-Rin&theme=prussian)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=prussian)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=prussian)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=prussian)
