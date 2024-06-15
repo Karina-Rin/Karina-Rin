@@ -53,17 +53,10 @@
 
 ---
 
-Карточка профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karina-Rin&theme=solarized_dark)
-
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karina-Rin&theme=solarized_dark)
-
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=solarized_dark)
-
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=solarized_dark)
-
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=solarized_dark)
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)
