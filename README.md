@@ -13,7 +13,7 @@
 </div>
 
 ---
-### :woman_technologist: About me:
+<h3 align="center"> ### :woman_technologist: About me: 🇷🇺</h3>
 
 - 🎮 game's player
 - 📖 hobby - writer
