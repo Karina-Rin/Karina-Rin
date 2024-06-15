@@ -58,5 +58,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=solarized_dark)
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)
