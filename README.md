@@ -19,7 +19,7 @@
 - 📖 hobby - writer
 - 🌍 I open to new tehnologys
 - :mortar_board: MTUCI
-- :computer: Junior engineer
+- :computer: engineer
 - :newspaper: study English
 
 ---
@@ -53,4 +53,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=react)
-
