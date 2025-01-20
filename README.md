@@ -29,13 +29,16 @@
 ---
 
 ### Progects (YP)
-- [LeYan](https://github.com/LeYan15/LeYan_backend) - Проектное участие в кросс-функциональном хакатоне по разработке ML-продукта и интерфейса предсказательной модели.
-- [P2P Bot](https://github.com/Karina-Rin/p2p_review_bot) - Bot мессенджера Пачка, который предназначен для организации взаимопроверки кода студентами курса Java и Python.
-- [Foodgram](https://github.com/Karina-Rin/foodgram-project-react-5) - Сервис для публикации кулинарных рецептов с возможностью формирования списка продуктов для нужных рецептов.
-- [Homework_bot](https://github.com/Karina-Rin/homework_bot-1) - Телеграмм-бот для проверки статуса домашних работ. 
-- [API_YaMDb](https://github.com/Karina-Rin/API_YaMDb-2) - API для базы отзывов на Django REST Framework.
-- [Yatube](https://github.com/Karina-Rin/yatube_project) - Социальная сеть блогеров.
-- [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop) - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания.
+-----------------
+| Название                                                           | Суть                                                                                                                              |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| [LeYan](https://github.com/LeYan15/LeYan_backend)                  | Проектное участие в кросс-функциональном хакатоне по разработке ML-продукта и интерфейса предсказательной модели.                 |
+| [P2P Bot](https://github.com/Karina-Rin/p2p_review_bot)            | Bot мессенджера Пачка, который предназначен для организации взаимопроверки кода студентами курса Java и Python.                   |
+| [Foodgram](https://github.com/Karina-Rin/foodgram-project-react-5) | Сервис для публикации кулинарных рецептов с возможностью формирования списка продуктов для нужных рецептов.                       |
+| [Homework_bot](https://github.com/Karina-Rin/homework_bot-1)       | Телеграмм-бот для проверки статуса домашних работ.                                                                                |
+| [API_YaMDb](https://github.com/Karina-Rin/API_YaMDb-2)             | API для базы отзывов на Django REST Framework.                                                                                    |
+| [Yatube](https://github.com/Karina-Rin/yatube_project)             | Социальная сеть блогеров.                                                                                                         |
+| [Фитнес-трекер](https://github.com/Karina-Rin/hw_python_oop)       | Программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега, спортивной ходьбы и плавания. |
 
 ---
 
