@@ -57,4 +57,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karina-Rin&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karina-Rin&theme=react)
 
-
