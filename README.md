@@ -50,7 +50,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-Rin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karina-Rin&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karina-Rin&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karina-Rin&theme=react)
