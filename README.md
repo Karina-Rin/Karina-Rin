@@ -18,7 +18,7 @@
 
 - 🎮 game's player
 - 📖 hobby - writer
-- 🌍 I open to new tehnologys
+- 🌍 I open for new tehnologys
 - :mortar_board: MTUCI
 - :computer: engineer
 - :newspaper: study English
